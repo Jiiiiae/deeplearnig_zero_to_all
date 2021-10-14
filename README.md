@@ -1,0 +1,2 @@
+# deeplearnig_zero_to_all
+following deeplearning_zero_to_all by hunkim using tensorflow2
